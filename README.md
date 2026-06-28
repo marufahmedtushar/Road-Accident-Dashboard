@@ -99,4 +99,6 @@ Excel
 
 [Live Link](https://app.powerbi.com/view?r=eyJrIjoiYjAxZTcyYzktZjliOC00MzA2LWEyNDQtYjhmOTlkMzA3MTMwIiwidCI6IjUyMGMxZWM3LWI4ZWEtNGM3Ny05YTdlLTE0NDkwYTkxMzlhYSIsImMiOjEwfQ%3D%3D)
 
+**Overall Conclusion**
 
+The analysis indicates that road accidents are most common during daylight, on dry roads, in urban areas, and under fine weather conditions, largely because these conditions coincide with higher traffic volumes. However, the highest-risk situations are nighttime driving in rural areas and on wet roads, where visibility and road conditions significantly increase accident severity.
